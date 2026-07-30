@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: frontend-app
-      image: shubhamjambhulkar07/cdec-b4-frontend
+      image: komal0116/3-tier-docker:frontendjenkinsdocker
       ports:
         - containerPort: 80
 ---

@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: backend-app
-      image: shubhamjambhulkar07/cdec-b4-backend
+      image: komal0116/3-tier-docker:backendjenkinsdocker
       ports:
         - containerPort: 8080
 
